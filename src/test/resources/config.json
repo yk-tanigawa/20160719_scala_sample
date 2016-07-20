@@ -1,0 +1,10 @@
+{
+  "metaData": {
+    "createdAt": "20160719",
+    "experimentID": "000"
+  },
+  "input": "input_file",
+  "output": "output_file",
+  "paramInt" : 1,
+  "paramDouble": 1.0
+}
